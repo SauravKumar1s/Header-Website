@@ -6,7 +6,7 @@ const Caro = () => {
       <Carousel fade>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="d-block w-100 h-sm-25"
             src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
             alt="First slide"
             style={{height:'300px'}}
